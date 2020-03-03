@@ -7,8 +7,8 @@ The conversion should be displayed on the screeen in the following format: "32 d
 """
 
 
-Fahrenheit =int(input("Enter temperature in Fahrenheit "))
+Fahrenheit =int(input("Enter temperature in fahrenheit "))
 
 Celsius = (Fahrenheit - 32)*5/9
 
-print(Fahrenheit, "degree(s) fahrenheit is equal ", Celsius, "degree(s) celsius" )
+print(Fahrenheit, "degree(s) fahrenheit is equal to ", Celsius, "degree(s) celsius" )
