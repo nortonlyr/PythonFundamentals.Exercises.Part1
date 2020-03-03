@@ -1,5 +1,5 @@
 """
-Create a Python script called fahrenheit_to_celsius.py
+Ex 6. Create a Python script called fahrenheit_to_celsius.py
 
 The script should declare a variable called fahrenheit.
 The script should then convert the value of fahrenheit to celsius.
